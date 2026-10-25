@@ -63,7 +63,7 @@ Un bot de **WhatsApp multi-dispositivo** hecho con **Baileys** y JavaScript (ESM
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/SumiBot-MD.git
+git clone https://github.com/NullPoint-studios/SumiBot-MD.git
 cd SumiBot-MD
 
 # 2. Instalar dependencias
