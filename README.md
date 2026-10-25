@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=220&section=header&text=Sumi%20Sakurasawa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tu%20compa%C3%B1era%20de%20WhatsApp&descAlignY=58&descSize=20" alt="Banner" width="100%"/>
 
-<!-- GIF principal de Sumi: guarda tu archivo en assets/sumi-hero.gif -->
-<img src="./assets/sumi-hero.gif" alt="Sumi Sakurasawa" width="420"/>
+<img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/3975191.jpg" alt="Sumi Sakurasawa" width="420"/>
 
 ### ✦ *"Aquí estoy para ayudarte, cuenta conmigo."* ✦
 
@@ -24,8 +23,7 @@
 Un bot de **WhatsApp multi-dispositivo** hecho con **Baileys** y JavaScript (ESM), pensado para ser rápido, simple y estable. Incluye sub-bots, economía, gacha, stickers, descargas, herramientas de grupo y mucho más.
 
 <div align="center">
-  <!-- Imagen PNG de Sumi: guarda tu archivo en assets/sumi-1.png -->
-  <img src="./assets/sumi-1.png" alt="Sumi Sakurasawa" width="260"/>
+  <img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/sumi-sakurasawa.gif" alt="Sumi Sakurasawa" width="260"/>
 </div>
 
 ---
@@ -44,8 +42,7 @@ Un bot de **WhatsApp multi-dispositivo** hecho con **Baileys** y JavaScript (ESM
 | 🔧 | **Owner** | Reinicio, limpieza de sesión y base de datos, utilidades de mantenimiento |
 
 <div align="center">
-  <!-- GIF secundario: assets/sumi-2.gif -->
-  <img src="./assets/sumi-2.gif" alt="Sumi Sakurasawa" width="320"/>
+  <img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/sumi-blush.gif" alt="Sumi Sakurasawa" width="320"/>
 </div>
 
 ---
@@ -145,8 +142,7 @@ global.APIs = {
 [![GitHub Bryan](https://img.shields.io/badge/GitHub-Bryan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bavg1906-boop)
 [![GitHub Capicuy](https://img.shields.io/badge/GitHub-Capicuy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Capicuy-sh)
 
-<!-- GIF final: assets/sumi-3.gif -->
-<img src="./assets/sumi-3.gif" alt="Sumi Sakurasawa" width="300"/>
+<img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/sakurasawa-sumi-sumi-sakurasawa.gif" alt="Sumi Sakurasawa" width="300"/>
 
 *Hecho con ✦ y mucho cariño*
 
