@@ -11,7 +11,6 @@ import { DatabaseSync } from 'node:sqlite';
 import chalk from 'chalk';
 import { smsg, patchGroupMetadata } from '#serialize';
 
-// Carpeta de las sesiones ORIGINALES (respaldo). La conexión vive en SQL (bloque más abajo).
 const SUBS_DIR = path.join(import.meta.dirname, '../../Sessions/Subs');
 
 const MAX_SUBS_DEFAULT = 200;
@@ -23,7 +22,7 @@ const REPLACE_MIN_MS = 15_000;      // mínimo entre una solicitud y su reemplaz
 
 
 
-const CUSTOM_PAIRING_CODE = '0ELAINA0';
+const CUSTOM_PAIRING_CODE = 'SUMICODE';
 
 
 
