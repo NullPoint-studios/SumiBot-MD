@@ -112,7 +112,6 @@ global.APIs = {
 ```
 ├── cmds/            # Comandos por categoría (group, economy, gacha, stickers...)
 ├── lib/             # Utilidades, base de datos y cargador de comandos
-├── scripts/         # Scripts de instalación
 ├── handler.js       # Procesa cada mensaje y ejecuta comandos
 ├── index.js         # Arranque, conexión y sesiones
 └── settings.js      # Configuración global
