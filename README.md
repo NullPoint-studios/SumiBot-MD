@@ -102,8 +102,7 @@ global.APIs = {
 > **No nos hacemos responsables sobre baneos de cuenta por parte de WhatsApp**
 
 <div align="center">
-  <!-- PNG: assets/sumi-2.png -->
-  <img src="./assets/sumi-2.png" alt="Sumi Sakurasawa" width="240"/>
+  <img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/thumb-440-1254137.jpg" alt="Sumi Sakurasawa" width="240"/>
 </div>
 
 ---
