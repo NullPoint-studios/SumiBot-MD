@@ -82,7 +82,7 @@ Al primer arranque el bot te pedirá vincular la sesión (código o QR). La base
 ```bash
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg
-git clone https://github.com/TU_USUARIO/SumiBot-MD.git
+git clone https://github.com/NullPoint/SumiBot-MD.git
 cd SumiBot-MD
 npm install
 npm start
@@ -138,8 +138,12 @@ global.APIs = {
 
 <div align="center">
 
-[![Canal de WhatsApp](https://img.shields.io/badge/Canal-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/TU_CANAL)
-[![GitHub](https://img.shields.io/badge/GitHub-TU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![Canal de WhatsApp](https://img.shields.io/badge/Canal-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCbocKJpe8WhogtnG0w)
+
+[![GitHub 亗𝙽𝚎𝚝𝚑𝚎𝚛𝙻𝚘𝚛𝚍亗](https://img.shields.io/badge/GitHub-CREADOR__1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NetherLord2233)
+[![GitHub Mai](https://img.shields.io/badge/GitHub-CREADOR__2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mai1206-art)
+[![GitHub Bryan](https://img.shields.io/badge/GitHub-CREADOR__3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bavg1906-boop)
+[![GitHub Capicuy](https://img.shields.io/badge/GitHub-CREADOR__4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Capicuy-sh)
 
 <!-- GIF final: assets/sumi-3.gif -->
 <img src="./assets/sumi-3.gif" alt="Sumi Sakurasawa" width="300"/>
