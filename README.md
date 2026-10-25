@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=220&section=header&text=Sumi%20Sakurasawa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tu%20compa%C3%B1era%20de%20WhatsApp&descAlignY=58&descSize=20" alt="Banner" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/3975191.jpg" alt="Sumi Sakurasawa" width="420"/>
+<img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/1792944613204.jpg" alt="Sumi Sakurasawa" width="420"/>
 
 ### ✦ *"Aquí estoy para ayudarte, cuenta conmigo."* ✦
 
