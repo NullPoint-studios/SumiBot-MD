@@ -82,7 +82,7 @@ Al primer arranque el bot te pedirá vincular la sesión (código o QR). La base
 ```bash
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg
-git clone https://github.com/NullPoint/SumiBot-MD.git
+git clone https://github.com/NullPoint-studios/SumiBot-MD.git
 cd SumiBot-MD
 npm install
 npm start
