@@ -142,7 +142,7 @@ global.APIs = {
 
 <img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/thumb-440-1254137.jpg" alt="Sumi Sakurasawa" width="240"/>
 
-*Hecho con ✦ y mucho cariño*
+*Hecho con mucho cariño*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" alt="Footer" width="100%"/>
 
