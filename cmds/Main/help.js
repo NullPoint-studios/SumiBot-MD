@@ -5,7 +5,7 @@ import { prepareWAMessageMedia } from 'baileys'
 import moment from 'moment-timezone'
 import os from 'os'
 
-const ALLOWED_CATS = ['stickers', 'anime', 'economy', 'gacha', 'downloads', 'group', 'Main', 'profile', 'socket', 'stikers', 'nsfw', 'utils']
+const ALLOWED_CATS = ['stickers', 'anime', 'economy', 'gacha', 'dl', 'group', 'Main', 'profile', 'socket', 'stikers', 'nsfw', 'utils']
 
 function getFilesRecursively(dir) {
   let results = []
