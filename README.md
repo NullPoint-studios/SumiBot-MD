@@ -140,7 +140,7 @@ global.APIs = {
 [![GitHub Bryan](https://img.shields.io/badge/GitHub-Bryan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bavg1906-boop)
 [![GitHub Capicuy](https://img.shields.io/badge/GitHub-Capicuy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Capicuy-sh)
 
-<img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/sakurasawa-sumi-sumi-sakurasawa.gif" alt="Sumi Sakurasawa" width="300"/>
+<img src="https://raw.githubusercontent.com/NetherLord2233/assets/refs/heads/main/sumi/thumb-440-1254137.jpg" alt="Sumi Sakurasawa" width="240"/>
 
 *Hecho con ✦ y mucho cariño*
 
